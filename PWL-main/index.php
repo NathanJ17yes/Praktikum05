@@ -1,3 +1,4 @@
+// 2172011 - William Wijaya, 2172026 - Nathan Joshua
 <?php
     session_start();
     if(!isset($_SESSION['is_user_logged'])) {
