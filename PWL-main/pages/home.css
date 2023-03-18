@@ -1,0 +1,16 @@
+.Header {
+    width: 75%;
+    height: 250px;
+    margin-top: 200px;
+    padding-top: 150px;
+    text-align: center;
+    margin-left: 10%;
+    color: #1D2228;
+    border: 5px solid #FB8122;
+    border-radius: 10px;
+    font-family: 'Comic Neue', cursive;
+}
+img {
+    position: relative;
+    bottom: 150px;
+}
